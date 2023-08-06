@@ -1,7 +1,7 @@
 ##grflangid 0x02
 
-STR_GRF_NAME						:Einen Platz als Industrie
-STR_GRF_DESC						:{ORANGE}Ein 1-Feld Platz, der Passagiere produziert und akzeptiert.{}{}{BLACK}Nützlich, um Eye-Candy-Flächen brauchbar zu machen.{}{}Programmiert von 2TallTyler.{}{}Lizenz: GPL v3
+STR_GRF_NAME                        :{TITLE} {VERSION}
+STR_GRF_DESC						:{ORANGE}Ein 1-Feld Platz, der Passagiere produziert und akzeptiert.{}{}{BLACK}Nützlich, um Eye-Candy-Flächen brauchbar zu machen.{}{}Programmiert von 2TallTyler.
 STR_GENERATOR_NAME					:Platz
 
 

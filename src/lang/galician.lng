@@ -1,7 +1,7 @@
 ##grflangid 0x31
 
-STR_GRF_NAME						:Praza como Industria
-STR_GRF_DESC						:{ORANGE}Unha praza dun cadro que produce e acepta pasaxeiros.{}{}{BLACK}Útil para facer areas bonitas e funcionais.{}{}Código de 2TallTyler.{}{}Licenza: GPL v3
+STR_GRF_NAME                        :{TITLE} {VERSION}
+STR_GRF_DESC						:{ORANGE}Unha praza dun cadro que produce e acepta pasaxeiros.{}{}{BLACK}Útil para facer areas bonitas e funcionais.{}{}Código de 2TallTyler.
 STR_GENERATOR_NAME					:Praza
 
 
