@@ -8,4 +8,7 @@ Are you tired of your eyecandy castles, villages, or airports not having any pas
 
 ## Translations
 - English
+- Galician (pvillaverde)
 - German (WoelfiVW)
+- Spanish (pvillaverde)
+- Spanish (Mexican) (pvillaverde)
